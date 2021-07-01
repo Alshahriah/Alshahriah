@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, HTMl and CSS**
 
-- 📫 How to reach me **alshahriah2007@gmail.com**
+- 📫 How to reach me **alshahriah2007@gmail.com or Discord: Shahil#2007**
 
 - ⚡ Fun fact **I think am stupid**
 
