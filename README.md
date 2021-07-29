@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **CookieBot**
 
-- 🌱 I’m currently learning **Django, Java and Angular JS**
+- 🌱 I’m currently learning **Django, Java and React JS**
 
 - 👯 I’m looking to collaborate on **Api and Websites**
 
-- 🤝 I’m looking for help with **Java and C++**
+- 🤝 I’m looking for help with **Java and C#**
 
 - 💬 Ask me about **Python, HTMl and CSS**
 
-- 📫 How to reach me **alshahriah2007@gmail.com or Discord: Shahil#2007**
+- 📫 How to reach me **alshahriah2007@gmail.com or Discord: اShahilا#6900**
 
 - ⚡ Fun fact **I think am stupid**
 
