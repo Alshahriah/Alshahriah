@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, Java and React JS**
 
-- 👯 I’m looking to collaborate on **Api and Websites**
+- 👯 I’m looking to collaborate on **Api's and Bot applications**
 
 - 🤝 I’m looking for help with **Java and C++**
 
