@@ -7,24 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Api and Websites**
 
-- 🤝 I’m looking for help with **Java and C#**
-
-- 💬 Ask me about **Python, HTMl and CSS**
-
-- 📫 How to reach me **alshahriah2007@gmail.com or Discord: اShahilا#6900**
-
-- ⚡ Fun fact **I think am stupid**
-
-
-<h1 align="center">Hi 👋, I'm AlShahriah</h1>
-<h3 align="center">A passionate programmer developer from India</h3>
-
-- 🔭 I’m currently working on **Flask web development**
-
-- 🌱 I’m currently learning **Django, Java and React JS**
-
-- 👯 I’m looking to collaborate on **Api and Websites**
-
 - 🤝 I’m looking for help with **Java and C++**
 
 - 💬 Ask me about **Python, HTML and CSS**
