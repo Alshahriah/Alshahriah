@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, HTML and CSS**
 
-- 📫 How to reach me **alshahriah2007@gmail.com or Discord: اShahilا#6900**
+- 📫 How to reach me ***alshahriah2007@gmail.com*** or Discord: ***Shahil#6800***
 
 - ⚡ Fun fact **I think am stupid**
 
