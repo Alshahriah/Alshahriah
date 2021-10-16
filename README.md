@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm AlShahriah</h1>
 <h3 align="center">A passionate programmer developer from India</h3>
 
-- 🔭 I’m currently working on **Flask web development**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Django, Java and React JS**
+- 🌱 I’m currently learning **Django, Tensorflow and React JS**
 
 - 👯 I’m looking to collaborate on **Api's and Bot applications**
 
 - 🤝 I’m looking for help with **Java and C++**
 
-- 💬 Ask me about **Python, HTML and CSS**
+- 💬 Ask me about **Python, Go, HTML, CSS and JS**
 
-- 📫 How to reach me ***alshahriah2007@gmail.com*** or Discord: ***Shahil#6800***
+- 📫 How to reach me ***alshahriah2007@gmail.com*** or Discord: ***ShahilXD#6800***
 
 - ⚡ Fun fact **I think am stupid**
 
