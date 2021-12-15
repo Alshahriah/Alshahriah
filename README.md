@@ -1,4 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=AlShahriah&style=flat-square)
+![status](https://dev.discordprofiles.me/badge/status/190916650143318016?simple=true)
+![playing](https://dev.discordprofiles.me/badge/playing/190916650143318016)
+![vscode](https://dev.discordprofiles.me/badge/vscode/190916650143318016)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/190916650143318016)](https://dev.discordprofiles.me/openspotify/190916650143318016)
 <h1 align="center">Hi 👋, I'm AlShahriah</h1>
 <h3 align="center">A passionate programmer developer from India</h3>
 
