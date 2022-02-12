@@ -2,7 +2,7 @@
 ![status](https://dev.discordprofiles.me/badge/status/748740045078396959?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/748740045078396959)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/748740045078396959)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/748740045078396959)](https://dev.discordprofiles.me/openspotify/190916650143318016)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/748740045078396959)](https://dev.discordprofiles.me/openspotify/748740045078396959)
 <h1 align="center">Hi 👋, I'm AlShahriah</h1>
 <h3 align="center">A passionate programmer developer from India</h3>
 
