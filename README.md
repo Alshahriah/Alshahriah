@@ -15,17 +15,17 @@
 
 ---
 
-### 🚀 About Me
+### ⚡ About Me
 
 I am a Full Stack Developer with a passion for building robust web applications and solving complex problems. With extensive experience in both frontend and backend technologies, I specialize in creating seamless digital experiences. I focus on writing clean, maintainable code and architecting scalable systems.
 
-- 🌍  I'm based in **India**
-- 🧠  **Interests:** System Design, Distributed Systems, UI/UX Engineering
-- 🤝  **Collaboration:** Open to contributing to innovative open-source projects
+- **Location:** India
+- **Interests:** System Design, Distributed Systems, UI/UX Engineering
+- **Collaboration:** Open to contributing to innovative open-source projects
 
 ---
 
-### 🧩 Technologies & Tools
+### ✦ Technologies & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -35,7 +35,7 @@ I am a Full Stack Developer with a passion for building robust web applications 
 
 ---
 
-### ⚡ What I Bring to the Table
+### ⬢ What I Bring to the Table
 
 - **Software Engineering**: Expert in building robust software solutions, automation pipelines, and high-performance CLIs using Python and Go.
 - **Modern Frontend Architecture**: Crafting responsive, state-of-the-art user interfaces with **React, Vue, and Svelte**.
@@ -45,7 +45,7 @@ I am a Full Stack Developer with a passion for building robust web applications 
 
 ---
 
-### 🛠️ Technical Arsenal
+### ⌨ Technical Arsenal
 
 <div align="center">
 
@@ -60,7 +60,7 @@ I am a Full Stack Developer with a passion for building robust web applications 
 
 ---
 
-### 📊 Core Competency
+### 📈 Core Competency
 
 | **Skill Domain** | **Proficiency Level** |
 | :--- | :--- |
@@ -71,7 +71,7 @@ I am a Full Stack Developer with a passion for building robust web applications 
 
 ---
 
-### 🚀 Featured Projects
+### 💠 Featured Projects
 
 | **Project** | **Description** | **Stack** |
 | :--- | :--- | :--- |
@@ -83,7 +83,7 @@ I am a Full Stack Developer with a passion for building robust web applications 
 
 ---
 
-### 🏆 Achievements
+### ✨ Achievements
 
 - **Enterprise Scale Applications**: Architected and deployed microservices handling high-volume traffic.
 - **Open Source Contributions**: Active contributor to major web development ecosystems.
