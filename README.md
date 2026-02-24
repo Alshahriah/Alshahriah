@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=AlShahriah&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20and%20Software %20Developer%20&descAlignY=51&descAlign=57" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=AlShahriah&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20and%20Software%20Developer&descAlignY=51&descAlign=57" width="100%" />
 
   <h3 align="center">Building scalable architectures, automation tools & intuitive user experiences</h3>
 
@@ -20,23 +20,30 @@
 I am a Full Stack Developer with a passion for building robust web applications and solving complex problems. With extensive experience in both frontend and backend technologies, I specialize in creating seamless digital experiences. I focus on writing clean, maintainable code and architecting scalable systems.
 
 - 🌍  I'm based in **India**
-- 🖥️  **Core Stack:** React, Node.js, Python, Go, Cloud Architecture
 - 🧠  **Interests:** System Design, Distributed Systems, UI/UX Engineering
 - 🤝  **Collaboration:** Open to contributing to innovative open-source projects
+
+---
+
+### 🧩 Technologies & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,cpp,react,vue,svelte,nextjs,nodejs,fastapi,docker,kubernetes,aws,linux,git,postgres,redis&perline=8" />
+  </a>
+</div>
 
 ---
 
 ### ⚡ What I Bring to the Table
 
 - **Software Engineering**: Expert in building robust software solutions, automation pipelines, and high-performance CLIs using Python and Go.
-- **Modern Frontend Architecture**: crafting responsive, state-of-the-art user interfaces with **React, Vue, and Svelte**.
+- **Modern Frontend Architecture**: Crafting responsive, state-of-the-art user interfaces with **React, Vue, and Svelte**.
 - **Scalable Backend Systems**: Designing microservices and distributed systems that handle high concurrency.
 - **Cloud Native DevOps**: Leveraging Docker, Kubernetes, and AWS to ensure seamless deployment and scaling.
 - **Code Quality**: Committed to clean architecture, TDD, and rigorous code reviews.
 
-
 ---
-
 
 ### 🛠️ Technical Arsenal
 
@@ -50,29 +57,17 @@ I am a Full Stack Developer with a passion for building robust web applications 
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 </div>
-<br />
+
+---
 
 ### 📊 Core Competency
 
 | **Skill Domain** | **Proficiency Level** |
 | :--- | :--- |
-| **Software Development** (Python/Go/C++) | ![Expert](https://img.shields.io/badge/Level-Expert-3776AB?style=flat-square) ![95%](https://img.shields.io/badge/Score-95%25-success?style=flat-square) |
-| **Frontend Architecture** (React/Vue/Svelte) | ![Advanced](https://img.shields.io/badge/Level-Advanced-20232A?style=flat-square) ![90%](https://img.shields.io/badge/Score-90%25-success?style=flat-square) |
-| **Backend & Distributed Systems** | ![Advanced](https://img.shields.io/badge/Level-Advanced-43853D?style=flat-square) ![85%](https://img.shields.io/badge/Score-85%25-success?style=flat-square) |
-| **DevOps, CI/CD & Cloud** | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-2496ED?style=flat-square) ![75%](https://img.shields.io/badge/Score-75%25-yellow?style=flat-square) |
-
----
-
-
-### 🧩 Technologies & Tools
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,cpp,react,vue,svelte,nextjs,nodejs,fastapi,docker,kubernetes,aws,linux,git,postgres,redis&perline=8" />
-  </a>
-</div>
-
-<br>
+| **Backend & Distributed Systems** | ![Expert](https://img.shields.io/badge/Level-Expert-43853D?style=flat-square) &nbsp; ![95%](https://img.shields.io/badge/Mastery-95%25-4c1?style=flat-square) |
+| **Frontend Architecture** (React/Vue/Svelte) | ![Advanced](https://img.shields.io/badge/Level-Advanced-61DAFB?style=flat-square&logoColor=white) &nbsp; ![90%](https://img.shields.io/badge/Mastery-90%25-a4a61d?style=flat-square) |
+| **Software Development** (Python/Go/C++) | ![Advanced](https://img.shields.io/badge/Level-Advanced-3776AB?style=flat-square) &nbsp; ![85%](https://img.shields.io/badge/Mastery-85%25-dfb317?style=flat-square) |
+| **DevOps, CI/CD & Cloud** | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-2496ED?style=flat-square) &nbsp; ![80%](https://img.shields.io/badge/Mastery-80%25-fe7d37?style=flat-square) |
 
 ---
 
@@ -88,7 +83,7 @@ I am a Full Stack Developer with a passion for building robust web applications 
 
 ---
 
-### 🏆 Key Projects & Achievements
+### 🏆 Achievements
 
 - **Enterprise Scale Applications**: Architected and deployed microservices handling high-volume traffic.
 - **Open Source Contributions**: Active contributor to major web development ecosystems.
@@ -99,13 +94,17 @@ I am a Full Stack Developer with a passion for building robust web applications 
 ---
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/748740045078396959)
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/748740045078396959">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 
   <br />
-  
-  ![](https://komarev.com/ghpvc/?username=AlShahriah&style=flat-square&color=blueviolet)
 
+  <img src="https://komarev.com/ghpvc/?username=AlShahriah&style=flat-square&color=blueviolet" alt="Views" />
 </div>
