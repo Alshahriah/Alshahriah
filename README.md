@@ -75,9 +75,9 @@ I am a Full Stack Developer with a passion for building robust web applications 
 
 | **Project** | **Description** | **Stack** |
 | :--- | :--- | :--- |
-| **E-Commerce Platform** | A full-featured online store with payment integration, inventory management, and admin dashboard. | React, Node.js, MongoDB |
-| **Real-time Chat App** | A scalable messaging application with WebSocket support, group chats, and file sharing. | Next.js, Socket.io, Redis |
-| **AI Content Generator** | SaaS tool leveraging OpenAI API to generate marketing copy and blog posts. | Python, FastAPI, React |
+| [**EComcave**](https://github.com/AlShahriah/ecomcave) | Digital marketplace for selling software license keys and digital assets. | SvelteKit, Fastify, Prisma |
+| [**immagic**](https://github.com/AlShahriah/immagic) | Python-based web UI for Tesseract OCR. Turn images into searchable content. | Python, TypeScript, Tesseract |
+| [**blazestack**](https://github.com/AlShahriah/blazestack) | Bun monorepo template for Expo, React Router v7, Hono, and Cloudflare. | Bun, tRPC, Hono, Drizzle |
 
 > *Note: Many of my contributions are in private repositories for enterprise clients.*
 
